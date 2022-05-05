@@ -5,6 +5,6 @@ Problem Statement: Predict the percentage of a student based on the number of st
 
 Links:-
       1. Dataset Given: http://bit.ly/w-data
-      2. Github Link: 
+      2. Linkedln Link: 
       
   Tags: #GRIPMAY22 #thesparksfoundation #tsfgrip #tsf
